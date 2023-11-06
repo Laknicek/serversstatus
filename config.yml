@@ -155,9 +155,6 @@ params:
     - name: Servers/Nodes Status
       description: The main servers for this website are located here
       closed: false
-    - name: Empty Category
-    - name: Uncategorized
-      untitled: true
 
   # These are your systems. Change them to
   # change the amount of components.
@@ -183,7 +180,7 @@ params:
       link: https://laknicek.netlify.app/
       category: Laknicek Discord Music Bot
     - name: Discord Bot
-      link: Unknown
+      link: http://laknicek.tk/
       category: Laknicek Discord Music Bot
     - name: Website
       description: The web frontend for the application.
